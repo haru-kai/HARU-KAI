@@ -11,4 +11,9 @@ Vincent van Gogh
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haru-kai)](https://github.com/haru-kai/github-readme-stats)
+
+<div>
+  <a href="https://github.com/Mayza414">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haru-kai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haru-kai&langs_count=7&theme=dracula"/>
+</div>
